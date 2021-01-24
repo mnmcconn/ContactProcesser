@@ -1,0 +1,9 @@
+C:\Users\Mitchel\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\Mitchel\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\Mitchel\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\Mitchel\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\Mitchel\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mitchel\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mitchel\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CopyComplete
+C:\Users\Mitchel\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\Mitchel\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
